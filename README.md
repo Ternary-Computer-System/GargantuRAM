@@ -42,6 +42,15 @@ The board is implemented on an **Efinix Trion T120F484** FPGA and clocked at **2
 
 ---
 
+## Related Repositories
+
+| Repository | Contents |
+|---|---|
+| [GargantuRAM_ROM](https://github.com/Ternary-Computer-System/GargantuRAM_ROM) | Firmware for the SPI ROM |
+| [GargantuRAM_VHDL](https://github.com/Ternary-Computer-System/GargantuRAM_VHDL) | FPGA source code (VHDL) |
+
+---
+
 ## License
 
 This project is released under the **CERN-OHL-P v2** license.  
