@@ -1,0 +1,325 @@
+Removed Pin From Net: NetName=VDD Pin=RAM_0-1
+Removed Pin From Net: NetName=VDD Pin=RAM_0-3
+Removed Pin From Net: NetName=GND Pin=RAM_0-6
+Removed Pin From Net: NetName=VDD Pin=RAM_0-9
+Removed Pin From Net: NetName=GND Pin=RAM_0-12
+Removed Pin From Net: NetName=VDD Pin=RAM_0-14
+Removed Pin From Net: NetName=GND Pin=RAM_0-15
+Removed Pin From Net: NetName=WEn Pin=RAM_0-16
+Removed Pin From Net: NetName=CASn Pin=RAM_0-17
+Removed Pin From Net: NetName=RASn Pin=RAM_0-18
+Removed Pin From Net: NetName=CSn Pin=RAM_0-19
+Removed Pin From Net: NetName=BA0 Pin=RAM_0-20
+Removed Pin From Net: NetName=BA1 Pin=RAM_0-21
+Removed Pin From Net: NetName=VDD Pin=RAM_0-27
+Removed Pin From Net: NetName=GND Pin=RAM_0-28
+Removed Pin From Net: NetName=CKE Pin=RAM_0-37
+Removed Pin From Net: NetName=RAM_CLK Pin=RAM_0-38
+Removed Pin From Net: NetName=GND Pin=RAM_0-39
+Removed Pin From Net: NetName=GND Pin=RAM_0-41
+Removed Pin From Net: NetName=VDD Pin=RAM_0-43
+Removed Pin From Net: NetName=GND Pin=RAM_0-46
+Removed Pin From Net: NetName=VDD Pin=RAM_0-49
+Removed Pin From Net: NetName=GND Pin=RAM_0-52
+Removed Pin From Net: NetName=GND Pin=RAM_0-54
+Removed Pin From Net: NetName=VDD Pin=RAM_1-1
+Removed Pin From Net: NetName=VDD Pin=RAM_1-3
+Removed Pin From Net: NetName=GND Pin=RAM_1-6
+Removed Pin From Net: NetName=VDD Pin=RAM_1-9
+Removed Pin From Net: NetName=GND Pin=RAM_1-12
+Removed Pin From Net: NetName=VDD Pin=RAM_1-14
+Removed Pin From Net: NetName=GND Pin=RAM_1-15
+Removed Pin From Net: NetName=WEn Pin=RAM_1-16
+Removed Pin From Net: NetName=CASn Pin=RAM_1-17
+Removed Pin From Net: NetName=RASn Pin=RAM_1-18
+Removed Pin From Net: NetName=CSn Pin=RAM_1-19
+Removed Pin From Net: NetName=BA0 Pin=RAM_1-20
+Removed Pin From Net: NetName=BA1 Pin=RAM_1-21
+Removed Pin From Net: NetName=VDD Pin=RAM_1-27
+Removed Pin From Net: NetName=GND Pin=RAM_1-28
+Removed Pin From Net: NetName=CKE Pin=RAM_1-37
+Removed Pin From Net: NetName=RAM_CLK Pin=RAM_1-38
+Removed Pin From Net: NetName=GND Pin=RAM_1-39
+Removed Pin From Net: NetName=GND Pin=RAM_1-41
+Removed Pin From Net: NetName=VDD Pin=RAM_1-43
+Removed Pin From Net: NetName=GND Pin=RAM_1-46
+Removed Pin From Net: NetName=VDD Pin=RAM_1-49
+Removed Pin From Net: NetName=GND Pin=RAM_1-52
+Removed Pin From Net: NetName=GND Pin=RAM_1-54
+Removed Pin From Net: NetName=VDD Pin=RAM_2-1
+Removed Pin From Net: NetName=VDD Pin=RAM_2-3
+Removed Pin From Net: NetName=GND Pin=RAM_2-6
+Removed Pin From Net: NetName=VDD Pin=RAM_2-9
+Removed Pin From Net: NetName=GND Pin=RAM_2-12
+Removed Pin From Net: NetName=VDD Pin=RAM_2-14
+Removed Pin From Net: NetName=GND Pin=RAM_2-15
+Removed Pin From Net: NetName=WEn Pin=RAM_2-16
+Removed Pin From Net: NetName=CASn Pin=RAM_2-17
+Removed Pin From Net: NetName=RASn Pin=RAM_2-18
+Removed Pin From Net: NetName=CSn Pin=RAM_2-19
+Removed Pin From Net: NetName=BA0 Pin=RAM_2-20
+Removed Pin From Net: NetName=BA1 Pin=RAM_2-21
+Removed Pin From Net: NetName=VDD Pin=RAM_2-27
+Removed Pin From Net: NetName=GND Pin=RAM_2-28
+Removed Pin From Net: NetName=CKE Pin=RAM_2-37
+Removed Pin From Net: NetName=RAM_CLK Pin=RAM_2-38
+Removed Pin From Net: NetName=GND Pin=RAM_2-39
+Removed Pin From Net: NetName=GND Pin=RAM_2-41
+Removed Pin From Net: NetName=VDD Pin=RAM_2-43
+Removed Pin From Net: NetName=GND Pin=RAM_2-46
+Removed Pin From Net: NetName=VDD Pin=RAM_2-49
+Removed Pin From Net: NetName=GND Pin=RAM_2-52
+Removed Pin From Net: NetName=GND Pin=RAM_2-54
+Removed Member From Class: ClassName=RAM Member=RAM_0
+Removed Member From Class: ClassName=RAM Member=RAM_1
+Removed Member From Class: ClassName=RAM Member=RAM_2
+Added Component: Designator=IC?(SOP80P1176X120-54N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/is42s16160g-7tl-tr/integrated-silicon-solution-inc?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.issi.com/WW/pdf/42-45S83200G-16160G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Integrated Silicon Solution Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "870-IS42S16160G7TLTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ISSI/IS42S16160G-7TL-TR?qs=9hm%252BDT1Jr7xnYjoaQib7SQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP80P1176X120-54N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/is42s16160g-7tl-tr/integrated-silicon-solution-inc?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.issi.com/WW/pdf/42-45S83200G-16160G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Integrated Silicon Solution Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "870-IS42S16160G7TLTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ISSI/IS42S16160G-7TL-TR?qs=9hm%252BDT1Jr7xnYjoaQib7SQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP80P1176X120-54N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/is42s16160g-7tl-tr/integrated-silicon-solution-inc?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.issi.com/WW/pdf/42-45S83200G-16160G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Integrated Silicon Solution Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "870-IS42S16160G7TLTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ISSI/IS42S16160G-7TL-TR?qs=9hm%252BDT1Jr7xnYjoaQib7SQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=IC?-1
+Added Pin To Net: NetName=VDD Pin=IC?-1
+Added Pin To Net: NetName=VDD Pin=IC?-1
+Added Pin To Net: NetName=VDD Pin=IC?-3
+Added Pin To Net: NetName=VDD Pin=IC?-3
+Added Pin To Net: NetName=VDD Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=VDD Pin=IC?-9
+Added Pin To Net: NetName=VDD Pin=IC?-9
+Added Pin To Net: NetName=VDD Pin=IC?-9
+Added Pin To Net: NetName=GND Pin=IC?-12
+Added Pin To Net: NetName=GND Pin=IC?-12
+Added Pin To Net: NetName=GND Pin=IC?-12
+Added Pin To Net: NetName=VDD Pin=IC?-14
+Added Pin To Net: NetName=VDD Pin=IC?-14
+Added Pin To Net: NetName=VDD Pin=IC?-14
+Added Pin To Net: NetName=GND Pin=IC?-15
+Added Pin To Net: NetName=GND Pin=IC?-15
+Added Pin To Net: NetName=GND Pin=IC?-15
+Added Pin To Net: NetName=WEn Pin=IC?-16
+Added Pin To Net: NetName=WEn Pin=IC?-16
+Added Pin To Net: NetName=WEn Pin=IC?-16
+Added Pin To Net: NetName=CASn Pin=IC?-17
+Added Pin To Net: NetName=CASn Pin=IC?-17
+Added Pin To Net: NetName=CASn Pin=IC?-17
+Added Pin To Net: NetName=RASn Pin=IC?-18
+Added Pin To Net: NetName=RASn Pin=IC?-18
+Added Pin To Net: NetName=RASn Pin=IC?-18
+Added Pin To Net: NetName=CSn Pin=IC?-19
+Added Pin To Net: NetName=CSn Pin=IC?-19
+Added Pin To Net: NetName=CSn Pin=IC?-19
+Added Pin To Net: NetName=BA0 Pin=IC?-20
+Added Pin To Net: NetName=BA0 Pin=IC?-20
+Added Pin To Net: NetName=BA0 Pin=IC?-20
+Added Pin To Net: NetName=BA1 Pin=IC?-21
+Added Pin To Net: NetName=BA1 Pin=IC?-21
+Added Pin To Net: NetName=BA1 Pin=IC?-21
+Added Pin To Net: NetName=VDD Pin=IC?-27
+Added Pin To Net: NetName=VDD Pin=IC?-27
+Added Pin To Net: NetName=VDD Pin=IC?-27
+Added Pin To Net: NetName=GND Pin=IC?-28
+Added Pin To Net: NetName=GND Pin=IC?-28
+Added Pin To Net: NetName=GND Pin=IC?-28
+Added Pin To Net: NetName=CKE Pin=IC?-37
+Added Pin To Net: NetName=CKE Pin=IC?-37
+Added Pin To Net: NetName=CKE Pin=IC?-37
+Added Pin To Net: NetName=RAM_CLK Pin=IC?-38
+Added Pin To Net: NetName=RAM_CLK Pin=IC?-38
+Added Pin To Net: NetName=RAM_CLK Pin=IC?-38
+Added Pin To Net: NetName=GND Pin=IC?-39
+Added Pin To Net: NetName=GND Pin=IC?-39
+Added Pin To Net: NetName=GND Pin=IC?-39
+Added Pin To Net: NetName=GND Pin=IC?-41
+Added Pin To Net: NetName=GND Pin=IC?-41
+Added Pin To Net: NetName=GND Pin=IC?-41
+Added Pin To Net: NetName=VDD Pin=IC?-43
+Added Pin To Net: NetName=VDD Pin=IC?-43
+Added Pin To Net: NetName=VDD Pin=IC?-43
+Added Pin To Net: NetName=GND Pin=IC?-46
+Added Pin To Net: NetName=GND Pin=IC?-46
+Added Pin To Net: NetName=GND Pin=IC?-46
+Added Pin To Net: NetName=VDD Pin=IC?-49
+Added Pin To Net: NetName=VDD Pin=IC?-49
+Added Pin To Net: NetName=VDD Pin=IC?-49
+Added Pin To Net: NetName=GND Pin=IC?-52
+Added Pin To Net: NetName=GND Pin=IC?-52
+Added Pin To Net: NetName=GND Pin=IC?-52
+Added Pin To Net: NetName=GND Pin=IC?-54
+Added Pin To Net: NetName=GND Pin=IC?-54
+Added Pin To Net: NetName=GND Pin=IC?-54
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=Lassye3-U7
+Added Net: Name=NetIC?_2
+Add Net: Net with name "NetIC?_2" already exists
+Add Net: Net with name "NetIC?_2" already exists
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=Lassye3-AB12
+Added Net: Name=NetIC?_4
+Add Net: Net with name "NetIC?_4" already exists
+Add Net: Net with name "NetIC?_4" already exists
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=Lassye3-W11
+Added Net: Name=NetIC?_5
+Add Net: Net with name "NetIC?_5" already exists
+Add Net: Net with name "NetIC?_5" already exists
+Added Pin To Net: NetName=NetIC?_7 Pin=IC?-7
+Added Pin To Net: NetName=NetIC?_7 Pin=Lassye3-W12
+Added Net: Name=NetIC?_7
+Add Net: Net with name "NetIC?_7" already exists
+Add Net: Net with name "NetIC?_7" already exists
+Add Net: Net with name "NetIC?_8" already exists
+Add Net: Net with name "NetIC?_8" already exists
+Add Net: Net with name "NetIC?_8" already exists
+Added Pin To Net: NetName=NetIC?_10 Pin=IC?-10
+Added Pin To Net: NetName=NetIC?_10 Pin=Lassye3-P1
+Added Net: Name=NetIC?_10
+Add Net: Net with name "NetIC?_10" already exists
+Add Net: Net with name "NetIC?_10" already exists
+Added Pin To Net: NetName=NetIC?_11 Pin=IC?-11
+Added Pin To Net: NetName=NetIC?_11 Pin=Lassye3-U13
+Added Net: Name=NetIC?_11
+Add Net: Net with name "NetIC?_11" already exists
+Add Net: Net with name "NetIC?_11" already exists
+Added Pin To Net: NetName=NetIC?_13 Pin=IC?-13
+Added Pin To Net: NetName=NetIC?_13 Pin=Lassye3-Y1
+Added Net: Name=NetIC?_13
+Add Net: Net with name "NetIC?_13" already exists
+Add Net: Net with name "NetIC?_13" already exists
+Added Pin To Net: NetName=NetIC?_22 Pin=IC?-22
+Added Pin To Net: NetName=NetIC?_22 Pin=IC?-22
+Added Pin To Net: NetName=NetIC?_22 Pin=IC?-22
+Added Pin To Net: NetName=NetIC?_22 Pin=Lassye3-AB9
+Added Net: Name=NetIC?_22
+Added Pin To Net: NetName=NetIC?_23 Pin=IC?-23
+Added Pin To Net: NetName=NetIC?_23 Pin=IC?-23
+Added Pin To Net: NetName=NetIC?_23 Pin=IC?-23
+Added Pin To Net: NetName=NetIC?_23 Pin=Lassye3-AA13
+Added Net: Name=NetIC?_23
+Added Pin To Net: NetName=NetIC?_24 Pin=IC?-24
+Added Pin To Net: NetName=NetIC?_24 Pin=IC?-24
+Added Pin To Net: NetName=NetIC?_24 Pin=IC?-24
+Added Pin To Net: NetName=NetIC?_24 Pin=Lassye3-AA15
+Added Net: Name=NetIC?_24
+Added Pin To Net: NetName=NetIC?_25 Pin=IC?-25
+Added Pin To Net: NetName=NetIC?_25 Pin=IC?-25
+Added Pin To Net: NetName=NetIC?_25 Pin=IC?-25
+Added Pin To Net: NetName=NetIC?_25 Pin=Lassye3-AA16
+Added Net: Name=NetIC?_25
+Added Pin To Net: NetName=NetIC?_26 Pin=IC?-26
+Added Pin To Net: NetName=NetIC?_26 Pin=IC?-26
+Added Pin To Net: NetName=NetIC?_26 Pin=IC?-26
+Added Pin To Net: NetName=NetIC?_26 Pin=Lassye3-AB2
+Added Net: Name=NetIC?_26
+Added Pin To Net: NetName=NetIC?_29 Pin=IC?-29
+Added Pin To Net: NetName=NetIC?_29 Pin=IC?-29
+Added Pin To Net: NetName=NetIC?_29 Pin=IC?-29
+Added Pin To Net: NetName=NetIC?_29 Pin=Lassye3-AB3
+Added Net: Name=NetIC?_29
+Added Pin To Net: NetName=NetIC?_30 Pin=IC?-30
+Added Pin To Net: NetName=NetIC?_30 Pin=IC?-30
+Added Pin To Net: NetName=NetIC?_30 Pin=IC?-30
+Added Pin To Net: NetName=NetIC?_30 Pin=Lassye3-AB4
+Added Net: Name=NetIC?_30
+Added Pin To Net: NetName=NetIC?_31 Pin=IC?-31
+Added Pin To Net: NetName=NetIC?_31 Pin=IC?-31
+Added Pin To Net: NetName=NetIC?_31 Pin=IC?-31
+Added Pin To Net: NetName=NetIC?_31 Pin=Lassye3-AB5
+Added Net: Name=NetIC?_31
+Added Pin To Net: NetName=NetIC?_32 Pin=IC?-32
+Added Pin To Net: NetName=NetIC?_32 Pin=IC?-32
+Added Pin To Net: NetName=NetIC?_32 Pin=IC?-32
+Added Pin To Net: NetName=NetIC?_32 Pin=Lassye3-AB6
+Added Net: Name=NetIC?_32
+Added Pin To Net: NetName=NetIC?_33 Pin=IC?-33
+Added Pin To Net: NetName=NetIC?_33 Pin=IC?-33
+Added Pin To Net: NetName=NetIC?_33 Pin=IC?-33
+Added Pin To Net: NetName=NetIC?_33 Pin=Lassye3-AB7
+Added Net: Name=NetIC?_33
+Added Pin To Net: NetName=NetIC?_34 Pin=IC?-34
+Added Pin To Net: NetName=NetIC?_34 Pin=IC?-34
+Added Pin To Net: NetName=NetIC?_34 Pin=IC?-34
+Added Pin To Net: NetName=NetIC?_34 Pin=Lassye3-AB8
+Added Net: Name=NetIC?_34
+Added Pin To Net: NetName=NetIC?_35 Pin=IC?-35
+Added Pin To Net: NetName=NetIC?_35 Pin=IC?-35
+Added Pin To Net: NetName=NetIC?_35 Pin=IC?-35
+Added Pin To Net: NetName=NetIC?_35 Pin=Lassye3-AB10
+Added Net: Name=NetIC?_35
+Added Pin To Net: NetName=NetIC?_36 Pin=IC?-36
+Added Pin To Net: NetName=NetIC?_36 Pin=IC?-36
+Added Pin To Net: NetName=NetIC?_36 Pin=IC?-36
+Added Pin To Net: NetName=NetIC?_36 Pin=Lassye3-R10
+Added Net: Name=NetIC?_36
+Added Pin To Net: NetName=NetIC?_42 Pin=IC?-42
+Added Pin To Net: NetName=NetIC?_42 Pin=Lassye3-T6
+Added Net: Name=NetIC?_42
+Add Net: Net with name "NetIC?_42" already exists
+Add Net: Net with name "NetIC?_42" already exists
+Added Pin To Net: NetName=NetIC?_44 Pin=IC?-44
+Added Pin To Net: NetName=NetIC?_44 Pin=Lassye3-Y7
+Added Net: Name=NetIC?_44
+Add Net: Net with name "NetIC?_44" already exists
+Add Net: Net with name "NetIC?_44" already exists
+Added Pin To Net: NetName=NetIC?_45 Pin=IC?-45
+Added Pin To Net: NetName=NetIC?_45 Pin=Lassye3-T10
+Added Net: Name=NetIC?_45
+Add Net: Net with name "NetIC?_45" already exists
+Add Net: Net with name "NetIC?_45" already exists
+Added Pin To Net: NetName=NetIC?_47 Pin=IC?-47
+Added Pin To Net: NetName=NetIC?_47 Pin=Lassye3-V10
+Added Net: Name=NetIC?_47
+Add Net: Net with name "NetIC?_47" already exists
+Add Net: Net with name "NetIC?_47" already exists
+Added Pin To Net: NetName=NetIC?_48 Pin=IC?-48
+Added Pin To Net: NetName=NetIC?_48 Pin=Lassye3-R2
+Added Net: Name=NetIC?_48
+Add Net: Net with name "NetIC?_48" already exists
+Add Net: Net with name "NetIC?_48" already exists
+Added Pin To Net: NetName=NetIC?_50 Pin=IC?-50
+Added Pin To Net: NetName=NetIC?_50 Pin=Lassye3-V12
+Added Net: Name=NetIC?_50
+Add Net: Net with name "NetIC?_50" already exists
+Add Net: Net with name "NetIC?_50" already exists
+Added Pin To Net: NetName=NetIC?_51 Pin=IC?-51
+Added Pin To Net: NetName=NetIC?_51 Pin=Lassye3-V14
+Added Net: Name=NetIC?_51
+Add Net: Net with name "NetIC?_51" already exists
+Add Net: Net with name "NetIC?_51" already exists
+Added Pin To Net: NetName=NetIC?_53 Pin=IC?-53
+Added Pin To Net: NetName=NetIC?_53 Pin=Lassye3-W8
+Added Net: Name=NetIC?_53
+Add Net: Net with name "NetIC?_53" already exists
+Add Net: Net with name "NetIC?_53" already exists
+Added Member To Class: ClassName=RAM Member=Component IC? IS42S16160G-7TL-TR
+Added Member To Class: ClassName=RAM Member=Component IC? IS42S16160G-7TL-TR
+Added Member To Class: ClassName=RAM Member=Component IC? IS42S16160G-7TL-TR
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

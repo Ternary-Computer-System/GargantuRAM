@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=AddressBUS.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=Clock.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=CPU_and_EXPANSION_BUS.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=DataBUS.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=FPGA.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=RAM.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=ROM.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=SD_RTC_SPI.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AddressBUS.SchDoc|FileName=Serial_Ports.SchDoc|SheetNumber=1

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetRAM_0_24 Pin=Lassye3-AA1
+Added Pin To Net: NetName=NetRAM_0_25 Pin=Lassye3-AA2
+Change Net Name : Old Net Name=NetRAM_0_24 New Net Name=NetLassye3_AA1
+Change Net Name : Old Net Name=NetRAM_0_25 New Net Name=NetLassye3_AA2

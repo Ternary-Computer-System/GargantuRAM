@@ -1,0 +1,34 @@
+Change Component Comment : Designator=XTAL_25 Old Comment=ASE-25.000MHz-E-T New Comment=ASE-20.000MHZ-E-T
+Change component parameters: Designator = "XTAL_25" ("XTAL_25"); Footprint = "ASE24576MHZLCT"; UniqueID = "\WXITCXYH" ("\WXITCXYH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Oscillators/ASEseries.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ASE-20.000MHZ-E-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "815-ASE-20.0M-E-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/ASE-20.000MHz-E-T?qs=s46Hw6dZPL6LHFubn7CneQ%3D%3D"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(111, 168, 220) New Net Color=RGB(111, 168, 220)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(142, 124, 195) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=Lime New Net Color=Lime
+Change Net Color : Old Net Color=Red New Net Color=Red
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Added Member To Class: ClassName=FPGA Member=Component Lassye3 T120F484I4
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

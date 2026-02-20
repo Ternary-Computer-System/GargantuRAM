@@ -1,0 +1,39 @@
+Change Component Comment : Designator=RAM_0 Old Comment=MT48LC16M16A2P-6A_IT_G_TR New Comment=IS42S16160G-7TL-TR
+Change Component Comment : Designator=RAM_1 Old Comment=MT48LC16M16A2P-6A_IT_G_TR New Comment=IS42S16160G-7TL-TR
+Change Component Comment : Designator=RAM_2 Old Comment=MT48LC16M16A2P-6A_IT_G_TR New Comment=IS42S16160G-7TL-TR
+Change component parameters: Designator = "RAM_0" ("RAM_0"); Footprint = "SOP80P1176X120-54N"; UniqueID = "\OSYSLNSS" ("\OSYSLNSS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/is42s16160g-7tl-tr/integrated-silicon-solution-inc?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.issi.com/WW/pdf/42-45S83200G-16160G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Integrated Silicon Solution Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "870-IS42S16160G7TLTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ISSI/IS42S16160G-7TL-TR?qs=9hm%252BDT1Jr7xnYjoaQib7SQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RAM_1" ("RAM_1"); Footprint = "SOP80P1176X120-54N"; UniqueID = "\TPDXZYWE" ("\TPDXZYWE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/is42s16160g-7tl-tr/integrated-silicon-solution-inc?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.issi.com/WW/pdf/42-45S83200G-16160G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Integrated Silicon Solution Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "870-IS42S16160G7TLTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ISSI/IS42S16160G-7TL-TR?qs=9hm%252BDT1Jr7xnYjoaQib7SQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RAM_2" ("RAM_2"); Footprint = "SOP80P1176X120-54N"; UniqueID = "\PFQXFAOZ" ("\PFQXFAOZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/is42s16160g-7tl-tr/integrated-silicon-solution-inc?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.issi.com/WW/pdf/42-45S83200G-16160G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Integrated Silicon Solution Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IS42S16160G-7TL-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "870-IS42S16160G7TLTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ISSI/IS42S16160G-7TL-TR?qs=9hm%252BDT1Jr7xnYjoaQib7SQ%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Clock Member=Component IC? SiT92112AI-Y
+Added Member To Class: ClassName=RAM Member=Component RAM_0 IS42S16160G-7TL-TR
+Added Member To Class: ClassName=RAM Member=Component RAM_1 IS42S16160G-7TL-TR
+Added Member To Class: ClassName=RAM Member=Component RAM_2 IS42S16160G-7TL-TR
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

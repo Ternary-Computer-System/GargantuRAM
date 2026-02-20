@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=CK_dist Old Footprint=SiT92112AIY New Footprint=SON50P200X200X80-8N
+Change Component Comment : Designator=CK_dist Old Comment=SiT92112AI-Y New Comment=LMK1C1104DQFR
+Change Component Designator: OldDesignator=XTAL_20 NewDesignator=XTAL_25
+Change component parameters: Designator = "CK_dist" ("CK_dist"); Footprint = "SiT92112AIY"; UniqueID = "\CIVYZEBQ" ("\CIVYZEBQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "LMK1C1104DQFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lmk1c1104dqfr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/lmk1c1104.pdf?ts=1625794058723&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLMK1C1104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMK1C1104DQFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-LMK1C1104DQFR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMK1C1104DQFR?qs=QNEnbhJQKvYdwt0bSAj%252Blw%3D%3D"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(111, 168, 220) New Net Color=RGB(111, 168, 220)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(142, 124, 195) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=Lime New Net Color=Lime
+Change Net Color : Old Net Color=Red New Net Color=Red
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Added Member To Class: ClassName=FPGA Member=Component Lassye3 T120F484I4
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

@@ -1,0 +1,22 @@
+Added Component: Designator=RDAT1(RESC1608X50N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW060310K0FKEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw060310k0fkec/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW060310K0FKEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW060310K0FKEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060310K0FKEC?qs=DhCTQV%252BB7kVUX5brQUG3LA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=RDAT2(RESC1608X50N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CRCW060310K0FKEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/crcw060310k0fkec/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW060310K0FKEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW060310K0FKEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW060310K0FKEC?qs=DhCTQV%252BB7kVUX5brQUG3LA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=RDAT1-2
+Added Pin To Net: NetName=VDD Pin=RDAT2-2
+Added Member To Class: ClassName=SD_RTC_SPI Member=Component RDAT1 CRCW060310K0FKEC
+Added Member To Class: ClassName=SD_RTC_SPI Member=Component RDAT2 CRCW060310K0FKEC

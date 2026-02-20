@@ -1,0 +1,25 @@
+Change Net Name : Old Net Name=NetCK_dist_3 New Net Name=Clock_CPU
+Change Net Name : Old Net Name=NetCK_dist_8 New Net Name=ClockFPGA
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(111, 168, 220) New Net Color=RGB(111, 168, 220)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(142, 124, 195) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=Lime New Net Color=Lime
+Change Net Color : Old Net Color=Red New Net Color=Red
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

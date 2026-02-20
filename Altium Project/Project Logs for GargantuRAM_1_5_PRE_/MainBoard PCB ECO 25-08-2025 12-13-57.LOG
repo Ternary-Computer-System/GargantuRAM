@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetLassye3_AA15 Pin=Lassye3-AA15
+Removed Pin From Net: NetName=NetLassye3_AA16 Pin=Lassye3-AA16
+Removed Pin From Net: NetName=A21_A Pin=Lassye3-R13
+Removed Pin From Net: NetName=A21_B Pin=Lassye3-R14
+Removed Pin From Net: NetName=A20_A Pin=Lassye3-T13
+Removed Pin From Net: NetName=A20_B Pin=Lassye3-T14
+Added Pin To Net: NetName=A20_A Pin=Lassye3-AA15
+Added Pin To Net: NetName=A21_A Pin=Lassye3-AA16
+Added Pin To Net: NetName=A20_B Pin=Lassye3-AB15
+Added Pin To Net: NetName=A21_B Pin=Lassye3-AB16
+Change Net Name : Old Net Name=NetLassye3_AA15 New Net Name=NetRAM_0_24
+Change Net Name : Old Net Name=NetLassye3_AA16 New Net Name=NetRAM_0_25
+Added Pin To Net: NetName=NetRAM_0_8 Pin=RAM_0-8
+Added Net: Name=NetRAM_0_8
+Added Pin To Net: NetName=NetRAM_0_10 Pin=RAM_0-10
+Added Net: Name=NetRAM_0_10
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

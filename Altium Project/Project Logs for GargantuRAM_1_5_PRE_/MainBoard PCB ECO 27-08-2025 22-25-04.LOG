@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetLassye3_T13 Pin=Lassye3-T13
+Added Pin To Net: NetName=NetLassye3_T13 Pin=RAM_0-8
+Added Net: Name=NetLassye3_T13
+Added Pin To Net: NetName=NetLassye3_T14 Pin=Lassye3-T14
+Added Pin To Net: NetName=NetLassye3_T14 Pin=RAM_0-10
+Added Net: Name=NetLassye3_T14
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=XTAL-20-2
+Removed Pin From Net: NetName=CLOCK Pin=XTAL-20-3
+Removed Pin From Net: NetName=VDD Pin=XTAL-20-4
+Removed Member From Class: ClassName=Clock Member=XTAL-20
+Added Component: Designator=XTAL_25(ASE24576MHZLCT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Oscillators/ASEseries.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ASE-25.000MHz-E-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-ASE-25.0M-E-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/ASE-25.000MHz-E-T?qs=s46Hw6dZPL7Nn5OLp3aTMQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=XTAL_25-2
+Added Pin To Net: NetName=CLOCK Pin=XTAL_25-3
+Added Pin To Net: NetName=VDD Pin=XTAL_25-4
+Added Member To Class: ClassName=Clock Member=Component XTAL_25 ASE-25.000MHz-E-T
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

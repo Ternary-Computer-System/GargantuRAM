@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VDD Pin=EXT_SPI-1
+Removed Pin From Net: NetName=MISO Pin=EXT_SPI-2
+Removed Pin From Net: NetName=MOSI Pin=EXT_SPI-3
+Removed Pin From Net: NetName=SCLK Pin=EXT_SPI-4
+Removed Pin From Net: NetName=EXT_CSn Pin=EXT_SPI-5
+Removed Pin From Net: NetName=GND Pin=EXT_SPI-6
+Removed Member From Class: ClassName=SD_RTC_SPI Member=EXT_SPI
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(111, 168, 220) New Net Color=RGB(111, 168, 220)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(127, 96, 0) New Net Color=RGB(127, 96, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Lime
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI

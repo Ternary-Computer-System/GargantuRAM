@@ -1,0 +1,7 @@
+# Altium Designer ignore list
+History/
+Project Outputs*/
+__Preview/
+*.PcbDoc.htm
+*.Constraint
+*.Resources

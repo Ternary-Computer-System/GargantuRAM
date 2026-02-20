@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=VDD Pin=RDAT1-2
+Added Pin To Net: NetName=VDD Pin=RDAT2-2
+Added Member To Class: ClassName=SD_RTC_SPI Member=Component RDAT1 CRCW060310K0FKEC
+Added Member To Class: ClassName=SD_RTC_SPI Member=Component RDAT2 CRCW060310K0FKEC
+Added Room: Name=AddressBUS
+Added Room: Name=CPU_and_EXPANSION_BUS
+Added Room: Name=RAM
+Added Room: Name=ROM
+Added Room: Name=SD_RTC_SPI
