@@ -1,4 +1,3 @@
-
 # GargantuRAM
 
 [![License: CERN OHL-P v2](https://img.shields.io/badge/Hardware_License-CERN_OHL--P_v2-blue)](https://ohwr.org/cern_ohl_p_v2.txt)
@@ -14,7 +13,7 @@ It is part of the **Ternary Computer System** initiative, focused on developing 
 
 ## Overview
 
-The **GargantuRAM 1.5 PRE** is the reference development board for the 5500FP CPU module. It accepts the CPU module via an edge connector and provides all the supporting infrastructure needed to run and program the processor: static RAM, mass storage, serial communication, and the analog circuitry that translates between binary logic levels and the balanced ternary voltage domain (±3.3 V).
+The **GargantuRAM 1.5 PRE** is the reference development board for the 5500FP CPU module. It accepts the CPU module via an edge connector and provides all the supporting infrastructure needed to run and program the processor: static RAM, mass storage, serial communication, and a ternary/binary bridge that adapts the signals of the 5500FP ternary CPU to the binary circuitry of this board, allowing immediate use of standard binary peripherals.
 
 The board is implemented on an **Efinix Trion T120F484** FPGA and clocked at **20 MHz** via a dedicated on-board oscillator, ensuring a clean and stable reference for the CPU module.
 
@@ -34,10 +33,12 @@ The board is implemented on an **Efinix Trion T120F484** FPGA and clocked at **2
 ---
 
 ## Repository Structure
-- `Altium Project/` — Project files for Altium.
-- `Docs/` — Schematics and documentations.
-- `Img/` — Photo and rendering.
 
+- `Altium Project/` — Project files for Altium.
+- `Img/` — Photo and rendering.
+- `Docs/` — Schematics and documentations.
+
+> **Note on PCB routing:** The current layout is fully functional and has been used to produce verified physical boards (MiniITX form factor). The routing is not yet optimized — improvements are planned for a future revision. Contributions and review from experienced PCB designers are welcome.
 
 ---
 
