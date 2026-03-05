@@ -3,6 +3,9 @@
 [![License: CERN OHL-P v2](https://img.shields.io/badge/Hardware_License-CERN_OHL--P_v2-blue)](https://ohwr.org/cern_ohl_p_v2.txt)
 [![Status: Hardware Prototype Verified](https://img.shields.io/badge/Status-Hardware_Prototype_Verified-green)]()
 [![Architecture: Balanced Ternary](https://img.shields.io/badge/Architecture-Balanced_Ternary-orange)]()
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18881738-blue)](https://doi.org/10.5281/zenodo.18881738)
+
+
 
 GargantuRAM is the open hardware development board for the **5500FP**, a 24-trit balanced ternary RISC processor.  
 It is part of the **Ternary Computer System** initiative, focused on developing hardware and software components for non-binary computation.
