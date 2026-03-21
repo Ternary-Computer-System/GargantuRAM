@@ -5,7 +5,14 @@
 [![Architecture: Balanced Ternary](https://img.shields.io/badge/Architecture-Balanced_Ternary-orange)]()
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18881738-blue)](https://doi.org/10.5281/zenodo.18881738)
 
+## ⚠️ Important Notice — No Fundraising Campaigns
 
+This project has **no active crowdfunding, donation, or fundraising campaigns** of any kind.
+
+If you have encountered any solicitation for donations related to GargantuRAM or the 5500FP processor — including on VK, Telegram, or any other platform — **it is not authorized by the author and has no affiliation with this project.**
+
+The sole author and maintainer of the Ternary Computer System initiative is **Claudio [cognome]**, based in Italy.  
+Official channels: [ternary-computing.com](https://www.ternary-computing.com) | [Zenodo paper](https://doi.org/10.5281/zenodo.18881738)
 
 GargantuRAM is the open hardware development board for the **5500FP**, a 24-trit balanced ternary RISC processor.  
 It is part of the **Ternary Computer System** initiative, focused on developing hardware and software components for non-binary computation.
